@@ -5,7 +5,7 @@
 ## I'm a CE student at KHU in Tehran, a Python Back-end developer and Learning django 
 
 - 🔭 I'm a python developer and currently learning django framework
-- 🌱 I've worked with python, java SE, java swing, c++, QT (c++), html, css
+- 🌱 I've worked with python, django, java SE, java swing, c++, QT(c++), SQL databases, mongodb, redis, rabbitmq
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 

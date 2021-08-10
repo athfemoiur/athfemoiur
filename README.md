@@ -38,5 +38,5 @@
 
 [twitter]: https://twitter.com/athfemoiur
 [instagram]: https://instagram.com/athfemoiur
-[linkedin]: https://linkedin.com/in/athfemoiur
+[linkedin]: https://www.linkedin.com/in/amirhossein-bonakdar-aa5b09219/
 [github]: https://github.com/athfemoiur

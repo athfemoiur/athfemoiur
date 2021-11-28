@@ -4,8 +4,7 @@
 
 ## I'm a CE student at KHU in Tehran, a Python Back-end developer and Learning django 
 
-- 🔭 I'm a python developer and currently learning django framework
-- 🌱 I've worked with python, django, java SE, java swing, c++, QT(c++), SQL databases, mongodb, redis, rabbitmq
+- 🔭 I'm a python backend developer working with Django, Djanog-rest-framework and other backend technologies ...
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 
@@ -33,5 +32,5 @@
 
 [twitter]: https://twitter.com/athfemoiur
 [instagram]: https://instagram.com/athfemoiur
-[linkedin]: https://www.linkedin.com/in/amirhossein-bonakdar-aa5b09219/
+[linkedin]: https://www.linkedin.com/in/athfemoiur/
 [github]: https://github.com/athfemoiur

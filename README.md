@@ -1,23 +1,48 @@
-<h1 align="center">Hi 👋, I'm Amir</h1>
-<h3 align="center">Python Backend developer, CE student of KHU</h3>
+# 👋 Hi, I'm Amirhossein Bonakdar
 
-- 🔭 I’m currently working on **developing projects with django, drf**
+🎯 **Senior Backend Engineer** | Python 🐍 · Go ⚙️ · Distributed Systems ☁️
 
-- 🌱 I’m currently learning **any new technologies related to backend**
+I'm a backend software engineer with 5+ years of experience building **scalable**, **production-grade** systems using Python (Django, Flask, FastAPI) and Go. I specialize in designing and maintaining **high-performance distributed services** that power platforms with **millions of users and thousands of RPS**.
 
-- Telegram [@athfemoiur](@athfemoiur)
+---
 
-- 📫 How to reach me **amirhossein1234bonakdar@gmail.com**
+## 💼 Responsibilities
+- Designed, developed, tested, and maintained 10+ backend services with end-to-end ownership
+- Architected cross-team and inter-service solutions for large-scale systems
+- Mentored new team members and participated in regular code reviews and pair programming
+- Supported on-call rotations and contributed to observability and disaster recovery planning
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/199IEnBd6PKFdtCHm7lICkHRtZAAGRw_9/view?usp=sharing](https://drive.google.com/file/d/199IEnBd6PKFdtCHm7lICkHRtZAAGRw_9/view?usp=sharing)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/athfemoiur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="athfemoiur" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/athfemoiur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="athfemoiur" height="30" width="40" /></a>
-</p>
+## 🏆 Achievements
+- 🚀 Improved availability by 25% and reduced latency by 30%
+- 💡 Boosted cache consistency by 300% and cut resource usage by 40%
+- 💰 Built a marketing automation service saving 300% in campaign costs
+- 📈 Enhanced PostgreSQL and data pipelines by 25%, helping ML teams ship faster
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=athfemoiur&show_icons=true&locale=en" alt="athfemoiur" /></p>
+## 🛠️ Skills
+**Languages:** Python, Golang  
+**Frameworks:** Django, Flask, FastAPI  
+**Databases:** PostgreSQL, Redis  
+**Tools & Platforms:** Docker, Kubernetes, CI/CD, Git, Linux  
+**Concepts:** Microservices, Distributed Systems, Design Patterns, REST APIs, Observability
+
+---
+
+## 🌱 Currently Learning
+- gRPC & Protocol Buffers  
+- High-throughput data processing  
+- System design at scale
+
+---
+
+## 📫 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/your-link-here)  
+- [Email](mailto:your.email@example.com)  
+- [Website / Blog (optional)](https://your-website-here.com)
+
+---
+
+> “Build systems that scale, fail gracefully, and always evolve.”  

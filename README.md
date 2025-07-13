@@ -31,18 +31,14 @@ I'm a backend software engineer with 5+ years of experience building **scalable*
 
 ---
 
-## 🌱 Currently Learning
-- gRPC & Protocol Buffers  
+## 🌱 Currently Learning 
 - High-throughput data processing  
 - System design at scale
 
 ---
 
 ## 📫 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/your-link-here)  
-- [Email](mailto:your.email@example.com)  
-- [Website / Blog (optional)](https://your-website-here.com)
+- [LinkedIn](https://www.linkedin.com/in/athfemoiur/)  
+- [Email](mailto:amirhossein1234bonakdar@gmail.com)  
 
 ---
-
-> “Build systems that scale, fail gracefully, and always evolve.”  

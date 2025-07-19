@@ -17,7 +17,7 @@ I'm a backend software engineer with 5+ years of experience building **scalable*
 ## 🏆 Achievements
 - 🚀 Improved availability by 25% and reduced latency by 30%
 - 💡 Boosted cache consistency by 300% and cut resource usage by 40%
-- 💰 Built a marketing automation service saving 300% in campaign costs
+- 💰 Built a marketing automation service saving 90% in campaign costs
 - 📈 Enhanced PostgreSQL and data pipelines by 25%, helping ML teams ship faster
 
 ---
